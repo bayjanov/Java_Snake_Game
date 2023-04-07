@@ -1,7 +1,7 @@
 # Java_Snake_Game
 An example of using Java Swing (GUI) to create a simple snake game in an OOP where the user can navigate a snake to eat apples and get longer as it does. When the game is over user can Retry the button on the Game Over screen.
 
-==========================================================================================================================================================================
+============================================================================================
 
 This program is a simple implementation of the classic game "Snake" using Java and Swing. The game window is a 600x600 black panel, where the snake is made up of green squares and the apple is a red oval. The player controls the snake's movement with arrow keys, trying to eat the apple while avoiding collisions with the walls and the snake's body. The score is incremented each time the snake eats an apple.
 
